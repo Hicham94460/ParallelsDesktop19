@@ -1,0 +1,32 @@
+Comment faire pour avoir la version Business edition pendant la période d'essai de 14 jours pour tout le temps ?
+
+Étape 1 :
+Sur Windows : Installez Hyper-V, Vmware Workstation Player, VirtualBox...
+Sur Mac : Installez Vmware (Edition Player avec licence personnelle offerte par Vmware en s'inscrivant), VirtualBox, VirtualBuddy...
+
+Étape 2 :
+Téléchargez le système d'exploitation Mac (Big Sur, Monterey, Ventura ou autre) que vous voulez ou que vous avez déjà en votre possession et installez la machine virtuelle MAC. 
+
+Étape 3 :
+Installation correct, prenez un snapshot de votre machine virtuelle mac.
+
+Étape 4 :
+Maintenant, installez Parallels Desktop depuis le site officiel.
+Enregistrez-vous en tant que nouvel utilisateur avec une adresse mail jetable.
+Voilà ! Vous êtes maintenant en Business Edition pendant 14 jours. Vous pouvez utilisez ce compte sur votre Mac personnel.
+
+Étape 5 :
+À la fin des 13 ou 14 jours ;
+1. Vous repartez au snapshot initial de l'étape 3.
+2. Refaites l'étape 4.
+3. Vous voilà encore une fois avec 14 jours de Business Edition avec une nouvelle adresse mail jetable.
+
+Vous pouvez faire ça à l'infini afin que vous puissiez utiliser Parallels Desktop sur mac sans avoir besoin d'acheter de licence ou de cracké la version.
+
+
+
+
+Vmware Fusion Player : https://customerconnect.vmware.com/en/evalcenter?p=fusion-player-personal-13
+Vmawre Workstation Player : https://customerconnect.vmware.com/fr/downloads/info/slug/desktop_end_user_computing/vmware_workstation_player/17_0
+VirtualBox (Oracle) : https://www.virtualbox.org/wiki/Downloads
+Mac OS : https://techrechard.com/download-macos-big-sur-iso-dmg-and-vmdk-latest/
